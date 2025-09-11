@@ -76,7 +76,7 @@ function NotasList() {
                     onChange={(e) => setContenido(e.target.value)}
                     required
                 />
-                <button type="sumbit">
+                <button type="submit">
                     {editandoId ? "Actualizar" : "Crear"}
                 </button>
                 {editandoId && (
