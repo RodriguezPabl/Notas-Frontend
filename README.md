@@ -18,7 +18,7 @@ Instalación y ejecución
 Clonar el repositorio
 - bash
 - git clone https://github.com/RodriguezPabl/Notas-Frontend.git
-- cd Notas-Frontend
+- cd Notas-Frontend/notas-frontend
 
 Instalar dependencias
 - npm install
